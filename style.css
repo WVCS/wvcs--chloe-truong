@@ -13,7 +13,7 @@ body {
  }
 ul {
   list-style-type: none;
-  background-color: #fff;
+  background-color: #f9f9f9;
   width: 100%;
   overflow:hidden;
   position: fixed; 
